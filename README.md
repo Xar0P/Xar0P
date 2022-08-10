@@ -16,7 +16,7 @@
 <div><br></div>
 
 <div>
-<p>Oi, me chamo Pietro e sou um iniciante na programação, atualmente estou focando mais na web, aprendendo sobre React e Node.</p>
+<p>Olá, meu nome é Pietro, sou uma pessoa fascinada por tecnologia, atualmente estou desenvolvendo meu projeto de conclusão de curso e estou estudando sobre NestJS.</p>
 </div>
 
 <div><br></div>
