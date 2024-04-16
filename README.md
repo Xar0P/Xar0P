@@ -16,7 +16,6 @@
 <div><br></div>
 
 <div>
-<p>Olá, meu nome é Pietro, sou uma pessoa fascinada por tecnologia, atualmente estou desenvolvendo meu projeto de conclusão de curso e estou estudando sobre NestJS.</p>
 </div>
 
 <div><br></div>
