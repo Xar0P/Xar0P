@@ -1,13 +1,13 @@
 ```text
 xar0p@github ~ ❯ fastfetch
 
-   /\     /\        xar0p@github
-  /  \___/  \       --------------
- /   o   o   \      Name       Pietro
- \     V     /      Location   Balneário Barra do Sul, Brazil
-  \   ___   /       Joined     2019
-   \_/   \_/        Languages  TypeScript, Rust (learning), QML
-                    Web        React, Vite, Tailwind, shadcn
+ /\         /\      xar0p@github
+/  \_______/  \     --------------
+\   o     o   /     Name       Pietro
+ \_    v    _/      Location   Balneário Barra do Sul, Brazil
+   \_     _/        Joined     2019
+     \_ _/          Languages  TypeScript, Rust (learning), QML
+       V            Web        React, Vite, Tailwind, shadcn
                     Server     self-hosted, Docker, Tailscale
                     OS         CachyOS
                     WM         Niri (Wayland)
